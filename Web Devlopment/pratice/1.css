@@ -1,0 +1,14 @@
+section div{
+    width: 100px;
+    height:100px;
+    background-color: lightblue;
+    margin:10px;
+    transition: 1s;
+}
+
+ section div:hover{
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+

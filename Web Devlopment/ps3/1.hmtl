@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>FORM 1</title>
+</head>
+<body>
+<h1 align="center" style="color:Brown;font-family:forte">FEEDBACK</h1>
+<p>You can help us to improve our website by using the following form to et us know what you think or what you think or what needs<br>to be changed</p>
+<table>
+<form>
+<tr>
+<td>Name:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td>Email address:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td>Are you a club member:</td>
+<td><input type="checkbox"checked></td>
+</tr>
+<tr>
+<td>Your age:</td>
+<td><input type="radio" name="age"><=20</td>
+</tr>
+<tr>
+<td>&emsp;&emsp;&emsp;&ensp;&nbsp;</td><td><input type="radio" name="age">21-30</td>
+</tr>
+<tr>
+<td>&emsp;&emsp;&emsp;&ensp;&nbsp;</td><td><input type="radio" name="age">31-40</td>
+</tr>
+<tr>
+<td>&emsp;&emsp;&emsp;&ensp;&nbsp;</td><td><input type="radio" name="age">>40</td>
+</tr>
+<tr>
+<td>You state:
+<td><select>
+<option>Western Australia</option>
+<option>India</option>
+<option>America</option>
+</select></td>
+</td>
+</tr>
+<tr>
+<td>Hoew did you<br>find our site:</td>
+<td>
+<textarea ></textarea>
+</td>
+</tr>
+<tr>
+<td>Site suggestions:</td>
+<td>
+<textarea ></textarea>
+</td>
+</tr>
+<tr>
+<td>Other comments:</td>
+<td><textarea ></textarea></td>
+</tr>
+<tr>
+          <td rowspan="2"></td>
+<td><button type = "button"  style = "background-color: yellow;">submit</button>
+           <button type = "button"  style = "background-color: orange;">reset</button></td>
+</form>
+</table>
+</body>

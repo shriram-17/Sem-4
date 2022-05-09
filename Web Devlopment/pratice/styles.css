@@ -1,0 +1,46 @@
+div
+{
+     width:100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+    padding: 4px 4px;
+    border: 1px solid black;
+    margin: 10px;
+}
+#static
+{
+    width:100px;
+    height: 100px;
+    background-color:green;
+    display: inline-block;
+    padding: 4px 4px;
+    border: 1px solid black;
+}
+
+div #static
+{
+    position: static;
+    top: 40px;
+}
+
+#relative
+{
+    width:100px;
+    height: 100px;
+    background-color:red;
+    display: inline-block;
+    padding: 4px 4px;
+    border: 1px solid black;
+    position: static;
+    top: 50px;
+    left:50px;
+}
+
+#Absolute
+{
+    background-color:gold;
+    position: absolute;
+
+
+}
