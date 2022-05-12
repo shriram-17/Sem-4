@@ -56,3 +56,11 @@ a:hover
     background-color: blue;
     font-size: 20px;
 }
+
+input
+{
+margin-top: 10px;
+ width: 400px;
+ height: 30px;
+ font-size: medium;
+}
