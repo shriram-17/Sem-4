@@ -1,0 +1,18 @@
+
+section
+{
+    background-color: blue;
+    width: 80%;
+    height: 250px;
+    margin: 0 auto;
+    transform: translateY(0.5em);
+    background-image:url() ;
+}
+
+p
+{
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+transform: translateY(1em);
+
+}
